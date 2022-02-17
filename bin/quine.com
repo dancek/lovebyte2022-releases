@@ -1,0 +1,1 @@
+´¾ ¬ˆÂ€â< Í!uô²'Í!þ	ÆÃëâ;; QUINE / hannuŠ; Greets to all sizecoders!Š; prints its source:Šorg 256Šmov ah,6Šs:mov si,tŠl:lodsbŠmov dl,alŠand dl,127Šcmp al,160Šint 33Šjne lŠmov dl,39Šint 33Šr:dec byte[l+4]Šmov byte[r],195Šjmp sŠt:db 
